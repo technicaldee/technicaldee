@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web and Mobile Developer
 -----------------------------------
 <br />
-<a href="https://portfolio-three-hazel-36.vercel.app/"> My portfolio</a><br />
+<a href="https://portfolio-three-hazel-36.vercel.app/"> My portfolio</a><br /><br />
 
 I have been building applications for individuals and businesses for the last 6 years using frameworks as Laravel, ExpressJS, NextJS, ReactJS, Flutter, React Native. I frequently code in PHP, Javascript, Dart, Kotlin, Swift and C. I am also proficient DevOps including CICD, configuring bare metal servers with an OS and Docker.
 
